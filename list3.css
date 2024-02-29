@@ -1,0 +1,26 @@
+.yellow{
+    color: blue;
+    text-underline-position: below;
+}
+.ye{
+    color: darkorange;
+}
+.ty{
+    color: chartreuse;
+}
+/* body{
+    background-color: cornsilk;
+} */
+#lo{
+    color: magenta;
+    font-size: larger;
+}
+.oil{
+    color: black;
+    font-size: larger;
+}
+body{
+    background-image: url(./pattern-background-light-line-texture-4k_1536097739.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
